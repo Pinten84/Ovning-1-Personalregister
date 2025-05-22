@@ -19,7 +19,7 @@ namespace Övning_1_Personalregister
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //TODO plugga på om vad static gör
         {
             // Lista för att lagra anställda
             List<Employee> employees = new List<Employee>();
